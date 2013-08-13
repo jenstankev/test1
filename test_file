@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a test file
 It contains words 
 and letters
@@ -6,3 +7,47 @@ and capital letters
 and new lines
 and old lines
 and pretty much nothing else
+=======
+This is a test file in a test repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+>>>>>>> test2.git/master
